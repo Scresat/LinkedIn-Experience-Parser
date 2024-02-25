@@ -7,4 +7,6 @@ You will need to refresh browser to make the script working.
 Example:
 <br />
 <br />
-<kbd><img width="582" alt="image" src="https://github.com/Scresat/LinkedIn-Experience-Parser/assets/32240792/dac5869f-ab02-4b29-91eb-f94d7ab29710"></kbd>
+<kbd><img width="635" alt="image" src="https://github.com/Scresat/LinkedIn-Experience-Parser/assets/32240792/fe73ad4d-a426-4541-b30d-31161c899c14">
+
+</kbd>
